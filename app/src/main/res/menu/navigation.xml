@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_whiteblue"
+        android:title="@string/title_home"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@drawable/add_whiteblue"
+        android:title="@string/title_add"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/navigation_request"
+        android:icon="@drawable/req_whiteblue"
+        android:title="@string/title_request"
+        android:visible="true" />
+    <item
+        android:id="@+id/navigation_remove"
+        android:icon="@drawable/remove_whiteblue"
+        android:title="@string/title_remove"
+        android:visible="true" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/settings_whiteblue"
+        android:title="@string/title_settings"
+        android:visible="true" />
+
+</menu>

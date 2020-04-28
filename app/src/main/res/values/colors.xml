@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#149279</color>
+    <color name="colorPrimaryDark">#056e59</color>
+    <color name="colorAccent">#212222</color>
+    <color name="colorBottomNav">#149279</color>
+    <color name="colorWhite">#fafafa</color>
+    <color name="colorWhite1">#fafafc</color>
+    <color name="colorWhite2">#fafaff</color>
+</resources>
